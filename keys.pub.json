@@ -1,0 +1,23 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.2/keys_0.0.2_windows_i386.tar.gz",
+            "bin": [
+                "keys.exe",
+                "keysd.exe"
+            ],
+            "hash": "a329275c497cbc453e75bdc95f738d59542ff888e4dbc021a87b9b0bbab8df26"
+        },
+        "64bit": {
+            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.2/keys_0.0.2_windows_x86_64.tar.gz",
+            "bin": [
+                "keys.exe",
+                "keysd.exe"
+            ],
+            "hash": "58b680e171c1224d23955482dc012b50cffaa41446c33ef94c995e8368d10f6b"
+        }
+    },
+    "homepage": "https://keys.pub",
+    "license": "MIT"
+}
