@@ -1,21 +1,21 @@
 {
-    "version": "0.0.35",
+    "version": "0.0.36",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.35/keys_0.0.35_windows_i386.tar.gz",
+            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.36/keys_0.0.36_windows_i386.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "89e0c9ab0f0512d8dab855538f0b1393475ecf17bff2cab284516dcf9d06a406"
+            "hash": "1782181caed4cc3539b7ef432c21e4da4f6426528923a58f25742ac6117bfde5"
         },
         "64bit": {
-            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.35/keys_0.0.35_windows_x86_64.tar.gz",
+            "url": "https://github.com/keys-pub/keysd/releases/download/v0.0.36/keys_0.0.36_windows_x86_64.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "d34ae20de729c8a219f3c7913536c5ed094c41b91e273be9a9fd60a812869e82"
+            "hash": "245f7ea1c7d1e7b212e0fcf45dd3404bc9836aa8f68b017ca8845e499f213fbb"
         }
     },
     "homepage": "https://keys.pub",
