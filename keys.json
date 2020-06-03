@@ -7,7 +7,7 @@
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "16b3b7010a21a0583cc217bd108da84b9c67cfb7707ef3cd1a97eb3648ef5e04"
+            "hash": "49d0f303d7c85ab6fd264b77b69f386a51af1cedfcfaa9afc70925236a94febc"
         },
         "64bit": {
             "url": "https://github.com/keys-pub/keys-ext/releases/download/v0.0.46/keys_0.0.46_windows_x86_64.tar.gz",
@@ -15,7 +15,7 @@
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "65dce1718e9c82e2caab6fab76669c3175f9cfb89250f6e95e7d9ff60844e4fc"
+            "hash": "d329619c64c3856e599cfdbdbb29a243d2007a900ec5bb9e729668ac930bdf4f"
         }
     },
     "homepage": "https://keys.pub",
