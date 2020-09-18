@@ -1,22 +1,22 @@
 
 {
-    "version": "0.1.16",
+    "version": "0.1.18",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/keys-pub/keys-ext/releases/download/v0.1.16/keys_0.1.16_windows_i386.tar.gz",
+            "url": "https://github.com/keys-pub/keys-ext/releases/download/v0.1.18/keys_0.1.18_windows_i386.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "9d4e8a4a5558d98d21bd5fdc3e98b66919642eeb09c86e0e2f5a623f1be13ef5"
+            "hash": "6a14657be0cf753d24af08f64a2025393d07a5d8135da1c70182c591078b19dc"
         },
         "64bit": {
-            "url": "https://github.com/keys-pub/keys-ext/releases/download/v0.1.16/keys_0.1.16_windows_x86_64.tar.gz",
+            "url": "https://github.com/keys-pub/keys-ext/releases/download/v0.1.18/keys_0.1.18_windows_x86_64.tar.gz",
             "bin": [
                 "keys.exe",
                 "keysd.exe"
             ],
-            "hash": "bad063dd90d594b310bdb337ef8161ae5ae08466edf87c9427c284361203d4d1"
+            "hash": "12390f46467dadf42f5c463ff6bea60c4034f45afa6d20fb349debdd3c101f8e"
         }
     },
     "homepage": "https://keys.pub",
